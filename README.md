@@ -1,1 +1,1 @@
-<h1>Projeto Baseado No Design Alura</h1>
+<h1 align="center">Projeto Baseado No Design Alura</h1>
